@@ -18,6 +18,16 @@ body {
     margin-left: 25px;
 }
 
+.imghome {
+    position: absolute;
+    width: 1115px;
+    height: 965px;
+    left: 800px;
+    top: 115px;
+
+    background: url(img/space.png);
+}
+
 .btnlenmor {
     position: absolute;
     width: 227px;
