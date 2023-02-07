@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    background: #131E3A;
+    color: white;
+    font-family: 'Google Sans';
+    height: 100%;
+}
+
+.footerin {
+    /* position: absolute; */
+    background-color: #2E2E2E;
+    font-family: 'Google Sans';
+    text-align: left;
+    padding-bottom: 1px;
+    padding-top: 1px;
+    text-align: center;
+    /* width: 100%; */
+}
+
+.footerin p {
+    opacity: 0.32;
+}
+
+.soc {
+    padding-top: 18%;
+    padding-bottom: 17.3%;
+    text-align: center;
+    font-weight: bold;
+    font-size: 24;
+    opacity: 0.5;
+}
+
+.back {
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.back:hover {
+    text-decoration: underline;
+}
+
+/* @media only screen and (max-width: 620px) {
+
+} */
